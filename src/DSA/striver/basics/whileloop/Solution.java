@@ -1,5 +1,7 @@
 package DSA.striver.basics.whileloop;
 
+/* https://www.codingninjas.com/studio/problems/sum-of-even-odd_624650? */
+
 import java.util.Scanner;
 
 public class Solution {
@@ -23,5 +25,3 @@ public class Solution {
         System.out.println(evenSum + " " + oddSum);
     }
 }
-
-/* https://www.codingninjas.com/studio/problems/sum-of-even-odd_624650? */

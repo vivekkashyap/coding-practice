@@ -1,5 +1,7 @@
 package DSA.striver.basics.userInputOutput;
 
+/* Link: https://www.codingninjas.com/studio/problems/find-character-case_58513 */
+
 import java.util.Scanner;
 
 public class Solution {
@@ -20,5 +22,3 @@ public class Solution {
         return -1;
     }
 }
-
-/* Link: https://www.codingninjas.com/studio/problems/find-character-case_58513 */

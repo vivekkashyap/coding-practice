@@ -1,5 +1,7 @@
 package DSA.striver.basics.dataTypes;
 
+/* https://www.codingninjas.com/studio/problems/data-type_8357232 */
+
 public class Solution {
     public static void main(String[] args) {
         System.out.println(dataTypes("Integer"));
@@ -27,6 +29,3 @@ public class Solution {
         }
     }
 }
-
-
-/* https://www.codingninjas.com/studio/problems/data-type_8357232 */

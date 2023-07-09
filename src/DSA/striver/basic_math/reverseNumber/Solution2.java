@@ -1,5 +1,7 @@
 package DSA.striver.basic_math.reverseNumber;
 
+/* https://www.codingninjas.com/studio/problems/reverse-bits_2181102 */
+
 public class Solution2 {
 
     public static void main(String[] args) {

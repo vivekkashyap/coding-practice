@@ -1,5 +1,7 @@
 package DSA.striver.basics.ifelse;
 
+/* https://www.codingninjas.com/studio/problems/if-else-decision-making_8357235 */
+
 public class Solution {
     public static void main(String[] args) {
         System.out.println(compareIfElse(5, 3));
@@ -16,5 +18,3 @@ public class Solution {
             return "equal";
     }
 }
-
-/* https://www.codingninjas.com/studio/problems/if-else-decision-making_8357235 */

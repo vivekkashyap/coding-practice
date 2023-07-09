@@ -1,3 +1,5 @@
+/* https://www.codingninjas.com/studio/problems/switch-case-statement_8357244 */
+
 package DSA.striver.basics.switchcase;
 
 public class Solution {
@@ -18,5 +20,3 @@ public class Solution {
         }
     }
 }
-
-/* https://www.codingninjas.com/studio/problems/switch-case-statement_8357244 */

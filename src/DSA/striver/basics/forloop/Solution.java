@@ -1,5 +1,7 @@
 package DSA.striver.basics.forloop;
 
+/* https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74156 */
+
 import java.util.Scanner;
 
 public class Solution {
@@ -29,5 +31,3 @@ public class Solution {
         return fn;
     }
 }
-
-/* https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74156 */

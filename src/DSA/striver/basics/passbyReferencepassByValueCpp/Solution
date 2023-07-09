@@ -1,3 +1,5 @@
+/* https://www.codingninjas.com/studio/problems/fa-1-ece_4606261 */
+
 #include <iostream>
 using namespace std;
 int Maximum(int x, int y)
@@ -35,5 +37,3 @@ int main()
 	}
 	return 0;
 }
-
-/* https://www.codingninjas.com/studio/problems/fa-1-ece_4606261 */
