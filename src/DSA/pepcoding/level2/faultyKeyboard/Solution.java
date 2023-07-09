@@ -1,10 +1,8 @@
-package DSA.pepcoding.level2;
+package DSA.pepcoding.level2.faultyKeyboard;
 
-/* LeetCode Link: https://leetcode.com/problems/long-pressed-name/description/ */
-
-public class FaultyKeyboard {
+public class Solution {
     public static void main(String[] args) {
-        FaultyKeyboard f = new FaultyKeyboard();
+        Solution f = new Solution();
         System.out.println(f.isLongPressedName("alex", "aaleex"));
         System.out.println(f.isLongPressedName("saeed", "ssaaedd"));
     }
@@ -33,3 +31,5 @@ public class FaultyKeyboard {
     }
 
 }
+
+/* Link: https://leetcode.com/problems/long-pressed-name/description/ */
